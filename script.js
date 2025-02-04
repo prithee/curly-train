@@ -14,7 +14,7 @@ const messages = [
 
 let messageIndex = 0;
 
-function handleNoClick() {
+function handlenawClick() {
     const nawButton = document.querySelector('.naw-button');
     const YAZZButton = document.querySelector('.YAZZ-button');
     nawButton.textContent = messages[messageIndex];
