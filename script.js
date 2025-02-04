@@ -23,6 +23,6 @@ function handlenawClick() {
     YAZZButton.style.fontSize = `${currentSize * 1.5}px`;
 }
 
-function handleYesClick() {
+function handleYAZZClick() {
     window.location.href = "yes_page.html";
 }
