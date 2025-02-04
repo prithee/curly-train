@@ -24,5 +24,5 @@ function handleNoClick() {
 }
 
 function handleYesClick() {
-    window.location.href = "YAZZ_page.html";
+    window.location.href = "yes_page.html";
 }
