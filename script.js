@@ -24,21 +24,5 @@ function handlenawClick() {
 }
 
 function handleYAZZClick() {
-    <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>YIPPPEEEEEEEEE!!!! LES GOOOOO B) </title>
-    <link rel="stylesheet" href="./yes_style.css">
-</head>
-<body>
-    <div class="container">
-        <h1 class="header_text">YIPPPEEEEEEEEE!!!! LES GOOOOO B) </h1>
-        <div class="gif_container">
-            <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnY1YmltbWVtZHVjNmN5azZxNjBuNmo1bzl6ODZmZXZxY3k2NTByaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bMJqfOtgVEyI2PLnaW/giphy.gif">
-        </div>
-    </div>
-</body>
-</html>
+    window.location.href = "yes_page.html";
 }
